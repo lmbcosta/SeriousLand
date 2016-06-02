@@ -13,12 +13,16 @@ using wind direction has strategy.
 
 This game can be played by two players
 
-Wind directions ; north, south, east, west
+Wind directions ; 
+  north, 
+  south, 
+  east, 
+  west
 
 All SeriousLanders stages:
-- first stage
-< second stage
-c third stage
-o fourth stage (final)
+  - first stage
+  < second stage
+  c third stage
+  o fourth stage (final)
 
 
