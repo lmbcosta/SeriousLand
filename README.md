@@ -20,9 +20,9 @@ Wind directions ;
   west
 
 All SeriousLanders stages:
-  - first stage
-  < second stage
-  c third stage
-  o fourth stage (final)
+  '-' first stage
+  '<' second stage
+  'c' third stage
+  'o' fourth stage (final)
 
 
